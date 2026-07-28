@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Support Agent</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="chat-container">
+    <header class="chat-header">
+      <div class="avatar"><i class="fa-solid fa-robot"></i></div>
+      <div class="header-info">
+        <h3>TechNova Assistant</h3>
+        <span class="status"><span class="dot"></span> Online</span>
+      </div>
+    </header>
+
+    <div class="chat-messages" id="chat-messages">
+      <div class="message bot-message">
+        Hello! I'm your TechNova assistant. How can I help you today?
+      </div>
+    </div>
+
+    <form class="chat-input-area" id="chat-form">
+      <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" required />
+      <button type="submit" id="send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
