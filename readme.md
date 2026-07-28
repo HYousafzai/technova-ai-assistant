@@ -1,10 +1,10 @@
-# 🤖 TechNova AI Customer Support Assistant
+ TechNova AI Customer Support Assistant
 
 An intelligent, full-stack AI customer support chatbot built with **FastAPI**, **Google Gemini API**, and a clean, modern **HTML/CSS/JS** frontend interface.
 
 ---
 
-## 🌟 Features
+ Features
 
 - **Real-Time AI Responses**: Powered by Google's Gemini Flash model (`gemini-3.6-flash`).
 - **Multi-Turn Chat History**: Retains session-based conversation context for natural dialogues.
@@ -14,7 +14,7 @@ An intelligent, full-stack AI customer support chatbot built with **FastAPI**, *
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```text
 week2(project1)/
