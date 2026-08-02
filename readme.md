@@ -1,4 +1,4 @@
- TechNova AI Customer Support Assistant
+AI Chatbot Development
 
 An intelligent, full-stack AI customer support chatbot built with **FastAPI**, **Google Gemini API**, and a clean, modern **HTML/CSS/JS** frontend interface.
 
