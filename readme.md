@@ -37,8 +37,8 @@ A Google Gemini API key (Get a free key from Google AI Studio)
 
 1. Clone the Repository
 Bash
-git clone [https://github.com/HYousafzai/technova-ai-assistant.git](https://github.com/HYousafzai/technova-ai-assistant.git)
-cd technova-ai-assistant
+git clone https://github.com/HYousafzai/AI-chat-bot
+cd AI chat bot
 
 
 2. Set Up Virtual Environment
